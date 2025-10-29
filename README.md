@@ -2,6 +2,8 @@
 
 Below are some Bug Report samples that I wrote while I was working on previous projects.
 
+-------------------------------------------------------------------------------------------
+
 **Description** 
 
 Navigating to a non-existent URL shows a server error instead of a user-friendly 404 page.

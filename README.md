@@ -10,8 +10,8 @@ Navigating to a non-existent URL shows a server error instead of a user-friendly
 
 **Steps to Reproduce:**
 
-1.Go to https://www.demoblaze.com/abcd
-2.Observe the page
+1. Go to https://www.demoblaze.com/abcd
+2. Observe the page
 
 **Expected Result**
 
